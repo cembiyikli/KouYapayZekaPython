@@ -2,7 +2,7 @@
 sayi1=int(sayi1)
 
 if sayi1%2 == 0:
-    print("Sayı çifttir.")
+    print("Çift")
 
 else:
-    print("Sayı tektir")
+    print("Tek")
